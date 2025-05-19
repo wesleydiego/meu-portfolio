@@ -1,5 +1,4 @@
 body {
-  body {
     background-color: black;
     color: white;
     padding: 20px;
@@ -8,7 +7,6 @@ body {
     box-sizing: border-box;
   }
   
-}
 h1, .contato-h1 {
     background-color:  rgb(3, 3, 128);
     max-width: 100%;
